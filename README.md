@@ -7,3 +7,8 @@
 * Press "Save" button to apply configuration.
 ---
 * You can also use [ItemEdit](https://github.com/zmv7/minetest-mod-itemedit) to apply custom inventory/wield images to the LuaWand
+
+## Media Licenses
+* `luawand.png`
+  * **Author:** Zemtzov7
+  * **License:** [CC-BY-SA-4.0](/CC-BY-SA-4.0)
