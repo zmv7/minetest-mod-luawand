@@ -1,4 +1,5 @@
 # LuaWand
+[![ContentDB](https://content.minetest.net/packages/Zemtzov7/luawand/shields/downloads/)](https://content.minetest.net/packages/Zemtzov7/luawand/)
 ### Usage
 * The itemname is `luawand:luawand`
 * Grant yourself `luawand` privilege
